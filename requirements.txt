@@ -1,6 +1,2 @@
 jupyter
 yfinance
-pandas
-numpy
-
-matplotlib
