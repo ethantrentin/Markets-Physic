@@ -3,3 +3,4 @@ yfinance
 matplotlib
 statsmodels
 powerlaw
+scikit-network
